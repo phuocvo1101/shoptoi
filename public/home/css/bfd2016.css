@@ -1,0 +1,68 @@
+body {
+    background: #333 !important;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+.listProductSort a {color:#333  !important; }
+.searchbox {
+    padding: 20px 0 0 0;
+}
+.searchbox input {
+    width: 270px !important;
+}
+
+.body-content {    
+    padding-top: 15px !important;
+}
+
+.header { color: #f8f8f8;}
+
+.header .icon-phone{ background-image: none !important;width: 0 !important;}
+.header .icon-truck{ background-image: none !important;width: 0 !important;}
+
+.number-box .icon { color: #fff0f5 !important;}
+
+.navbar { margin-bottom: 0px !important;min-height: 30px !important;}
+
+.product-info { background: #f8f8f8;padding: 15px 0;margin: 0 !important;}
+.js-blogContent{ padding: 10px; background: #f8f8f8;}
+.js-blogContent img { margin: auto;}
+
+.boxed-content { margin-bottom:20px !important;}
+.boxed-content .boxed-content-title { font-size: 12px !important;color: #f0f8ff; }
+
+.feedbackLink {
+        right: 100px;
+    width: 150px;
+    color: #FFF;
+    background: none !important;
+    text-indent: 0 !important;
+    line-height: 59px;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: solid 1px #fff;
+    padding: 0 10px;
+    height: 58px !important;
+    visibility: visible !important;
+}
+
+
+.feedbackLink:hover{ text-decoration: none;color: #fff;}
+
+.youtubevideo {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.youtubevideo iframe, .youtubevideo object, .youtubevideo embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}

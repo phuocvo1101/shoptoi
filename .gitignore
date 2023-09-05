@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/public/storage
+/public/upload
+/public/cdn2.yame.vn
+/public/cdn3.yame.vn
+Homestead.yaml
+Homestead.json
+.idea
+storage/framework/
+/public/admin/js/ckfinder/config.php
